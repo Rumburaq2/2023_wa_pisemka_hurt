@@ -1,2 +1,3 @@
 # 2023_wa_pisemka_hurt
-brrrrrrrrrrrrap
+
+| git status | List all new or modified files |
